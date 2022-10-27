@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "電卓", "電卓\電卓.csproj", "{94DC8BC8-2F8D-4291-BB27-61E44C6D279A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DC8BC8-2F8D-4291-BB27-61E44C6D279A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DC8BC8-2F8D-4291-BB27-61E44C6D279A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DC8BC8-2F8D-4291-BB27-61E44C6D279A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DC8BC8-2F8D-4291-BB27-61E44C6D279A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6557B059-F89A-4ED4-8A31-84613170D296}
+	EndGlobalSection
+EndGlobal
